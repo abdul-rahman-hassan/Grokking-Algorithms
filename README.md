@@ -1,1 +1,2 @@
 # Grokking-Algorithms
+I made this repository to keep track of my progress in the book Grokking Algorithms by Aditya Bhargava. I will be adding my notes and code snippets as I go through the book. I hope this will be helpful to someone who is also learning algorithms.
